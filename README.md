@@ -1,2 +1,2 @@
-# encrypted-file-aes-php
+# encrypted-file-php
 Encryption file using aes algorithm and php
