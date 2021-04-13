@@ -1,6 +1,6 @@
 <?php
  
-$ALGORITHM = 'AES-128-CBC';
+$ALGORITHM = 'AES-256-CBC';
 $IV    = '12dasdq3g5b2434b';
  
 $error = '';
